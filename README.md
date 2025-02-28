@@ -120,3 +120,5 @@ The pipeline performs the following tasks:
 ## Conclusion
 
 This project has provided hands-on experience in building a real-time big data pipeline using Kafka, Spark, and Hive. The integration of these tools for streaming data, processing, and storage in a distributed environment was both challenging and rewarding. The application successfully performs sentiment analysis on Reddit posts and provides a scalable solution for real-time data processing.
+
+## Blog: https://medium.com/@rohitdhole18/building-a-real-time-big-data-pipeline-with-kafka-pyspark-and-reddit-api-372ef116e8c6 
